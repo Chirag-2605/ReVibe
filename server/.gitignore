@@ -1,7 +1,7 @@
 node_modules/
 Rasa/env
 # Rasa/actions
-Rasa/data
+# Rasa/data
 Rasa/models
 # Rasa/tests
 Rasa/.rasa
