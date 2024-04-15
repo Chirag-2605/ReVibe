@@ -1,5 +1,5 @@
 node_modules/
-Rasa/env
+Rasa/env/Lib
 # Rasa/actions
 # Rasa/data
 # Rasa/models
