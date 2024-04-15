@@ -3,5 +3,5 @@ Rasa/env
 Rasa/actions
 Rasa/data
 Rasa/models
-Rasa/tests
+# Rasa/tests
 Rasa/.rasa
