@@ -4,4 +4,4 @@ Rasa/env
 # Rasa/data
 # Rasa/models
 # Rasa/tests
-Rasa/.rasa
+# Rasa/.rasa
