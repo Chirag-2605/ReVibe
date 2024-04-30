@@ -1,6 +1,6 @@
-# [Your Project Name]
+# ReVibe
 
-Welcome to [Your Project Name]! This e-commerce platform is designed to provide users with a seamless online shopping experience, empowering both sellers and buyers with innovative features and functionalities.
+Welcome to ReVibe! This e-commerce platform is designed to provide users with a seamless online shopping experience, empowering both sellers and buyers with innovative features and functionalities.
 
 ## Features
 
@@ -16,7 +16,7 @@ Welcome to [Your Project Name]! This e-commerce platform is designed to provide 
 
 ## Getting Started
 
-To get started with [Your Project Name], follow these steps:
+To get started with ReVibe, follow these steps:
 
 1. Clone the repository: `git clone <repository_url>`
 2. Install dependencies: `npm install`
@@ -24,11 +24,11 @@ To get started with [Your Project Name], follow these steps:
    - Set up your Razorpay API keys for payment integration.
    - Configure email.js with your email service provider credentials.
 4. Start the server: `npm start`
-5. Visit `http://localhost:<port>` in your web browser to access the application.
+5. Visit `http://localhost:8080` in your web browser to access the application.
 
 ## Contributing
 
-We welcome contributions from the community to enhance [Your Project Name]. If you're interested in contributing, please follow these guidelines:
+We welcome contributions from the community to enhance ReVibe. If you're interested in contributing, please follow these guidelines:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/your-feature`
@@ -42,6 +42,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions regarding [Your Project Name], feel free to contact us at [your-email@example.com].
+If you have any questions or suggestions regarding ReVibe, feel free to contact us at agchirag2605@gmail.com.
 
-Thank you for choosing [Your Project Name]! Happy shopping! 🛍️
+Thank you for choosing ReVibe! Happy shopping! 🛍️
